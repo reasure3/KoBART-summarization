@@ -1,5 +1,5 @@
 pandas
 torch
 transformers
-pytorch-lightnin
+pytorch-lightning
 streamlit
